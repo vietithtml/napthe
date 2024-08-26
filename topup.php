@@ -1,3 +1,4 @@
+<?php
 $partner_id = $CMSNAV->site('Partner_ID');
 $partner_key = $CMSNAV->site('Partner_Key');
     $request_id = rand(100000000, 999999999);  //Mã đơn hàng của bạn
